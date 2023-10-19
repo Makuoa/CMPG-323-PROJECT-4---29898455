@@ -22,5 +22,7 @@
 - - > Boboc, M. (no date a) Excel automation tutorial - datatables automation, UiPath. Available at: https://www.uipath.com/learning/video-tutorials/excel-datatables-automation (Accessed: 16 October 2023).
     
 - - > (No date a) Docs.uipath.com. Available at: https://docs.uipath.com/studio/standalone/2023.4/user-guide/ui-automation (Accessed: 18 October 2023).
+
+- - > Uipath Studio: Your first process automation (2020) YouTube. Available at: https://www.youtube.com/watch?v=OyQAhrcBr9U (Accessed: 11 October 2023). 
   
 
