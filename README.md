@@ -70,6 +70,12 @@ The key to successful testing in this project is the accurate automation of user
     
 - - > (No date a) Docs.uipath.com. Available at: https://docs.uipath.com/studio/standalone/2023.4/user-guide/ui-automation (Accessed: 18 October 2023).
 
-- - > Uipath Studio: Your first process automation (2020) YouTube. Available at: https://www.youtube.com/watch?v=OyQAhrcBr9U (Accessed: 11 October 2023). 
+- - > https://www.uipath.com/rpa/robotic-process-automation
+    
+- - > https://www.britannica.com/technology/automation
+
+- - > Uipath Studio: Your first process automation (2020) YouTube. Available at: https://www.youtube.com/watch?v=OyQAhrcBr9U (Accessed: 11 October 2023).
+    
+ - - > Automation (2023) Encyclopædia Britannica. Available at: https://www.britannica.com/technology/automation (Accessed: 17 October 2023). 
   
 
