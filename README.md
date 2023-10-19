@@ -18,5 +18,8 @@
     
 - - > Bourgeois, D. and Bourgeois, D.T. (2014) Chapter 4: Data and databases, Information Systems for Business and Beyond. Available at: https://pressbooks.pub/bus206/chapter/chapter-4-data-and-databases/ (Accessed: 14 October 2023).
     
-    > 
+- - > Boboc, M. (no date) Excel automation tutorial - datatables automation, UiPath. Available at: https://www.uipath.com/learning/video-tutorials/excel-datatables-automation (Accessed: 16 October 2023).
+- - > Boboc, M. (no date a) Excel automation tutorial - datatables automation, UiPath. Available at: https://www.uipath.com/learning/video-tutorials/excel-datatables-automation (Accessed: 16 October 2023).
+- -> (No date a) Docs.uipath.com. Available at: https://docs.uipath.com/studio/standalone/2023.4/user-guide/ui-automation (Accessed: 18 October 2023).
+  
 
